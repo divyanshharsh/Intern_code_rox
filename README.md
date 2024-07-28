@@ -1,6 +1,6 @@
 # Transaction Dashboard
-MERN Stack Challenge by Roxiler
-
+MERN Stack Code Challenge by Roxiler
+<br/>
 <br/>
 Frontend Technologies
 - React
@@ -15,3 +15,7 @@ Backend Technologies
 - Mongoose
 - MongoDB
 - Axios
+
+<br/>
+<br/>
+Created by DIVYANSH HARSH
